@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+e# -*- coding: utf-8 -*-
 """
 Modernized Multiple Disease Prediction System UI
 """
@@ -54,7 +54,7 @@ st.markdown("""
 
 # ---------------------- LOAD MODELS ----------------------
 diabetes_model = pickle.load(open('diabetes_model.sav', 'rb'))
-heart_model = pickle.load(open('heart_model.sav', 'rb'))
+heart_model = pickle.load(open('heart_disease_model.sav', 'rb'))
 parkinsons_model = pickle.load(open('parkinsons_model.sav', 'rb'))
 # ---------------------- SIDEBAR MENU ----------------------
 with st.sidebar:
@@ -138,4 +138,5 @@ if selected == 'Parkinsons Prediction':
     if st.button("🔍 Check Parkinson's Result"):
         parkinsons_prediction = parkinsons_model.predict([values])
         show_prediction(parkinsons_prediction[0], "⚠ The person has Parkinson's disease", "✅ The person does not have Parkinson's disease")
+
 
