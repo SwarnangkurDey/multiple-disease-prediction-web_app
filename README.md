@@ -11,15 +11,13 @@ Click here to try the app: https://multiple-disease-prediction-webapp-bka6ldgiic
 
 ---
 
-##UI Of WebApp
-
 ![App Screenshot](DiabetesSS.png)
 
 ![App Screenshot](HeartDiseaseSS.png)
 
-![App Screenshot](screenshot.png)
+![App Screenshot](ParkinsonSS.png)
 
-
+---
 
 ## ✨ Features
 - Predicts **three diseases**: Diabetes, Heart Disease, and Parkinson’s.
