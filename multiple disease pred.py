@@ -1,4 +1,4 @@
-e# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
 Modernized Multiple Disease Prediction System UI
 """
@@ -138,5 +138,6 @@ if selected == 'Parkinsons Prediction':
     if st.button("🔍 Check Parkinson's Result"):
         parkinsons_prediction = parkinsons_model.predict([values])
         show_prediction(parkinsons_prediction[0], "⚠ The person has Parkinson's disease", "✅ The person does not have Parkinson's disease")
+
 
 
