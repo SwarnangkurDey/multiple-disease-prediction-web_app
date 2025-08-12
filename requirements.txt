@@ -1,5 +1,6 @@
-numpy
-pickle
 streamlit
 streamlit-option-menu
-sckit-learn
+scikit-learn
+pandas
+numpy
+pickle5
