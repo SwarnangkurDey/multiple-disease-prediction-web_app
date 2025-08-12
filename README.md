@@ -9,11 +9,12 @@ This application uses trained machine learning models to provide quick health pr
  
 Click here to try the app: https://multiple-disease-prediction-webapp-bka6ldgiic8prrgy9pxw73.streamlit.app/
 
-![DiabetesSS.png](screenshot.png)
+![App Screenshot](screenshot.png)
 
-![Screenshot 2025-08-12 182145.png](screenshot.png)
+![App Screenshot](screenshot.png)
 
-![Screenshot 2025-08-12 182200.png](screenshot.png)
+![App Screenshot](screenshot.png)
+
 
 
 ## ✨ Features
