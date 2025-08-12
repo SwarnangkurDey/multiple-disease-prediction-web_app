@@ -11,6 +11,8 @@ Click here to try the app: https://multiple-disease-prediction-webapp-bka6ldgiic
 
 ---
 
+## 📸 Demo Screenshots
+
 ![App Screenshot](DiabetesSS.png)
 
 ![App Screenshot](HeartDiseaseSS.png)
